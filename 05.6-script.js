@@ -1,7 +1,7 @@
 let nota1 = Number(prompt("Digite a sua primeira nota: "))
 let nota2 = Number(prompt("Digite a sua segunda nota: "))
 
-let media = (nota1v + nota2) / 2
+let media = (nota1 + nota2) / 2
 
 if(media >= 7){
 
